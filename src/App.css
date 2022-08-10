@@ -1,0 +1,13 @@
+html {
+  display: flex;
+  justify-content: center;
+}
+body {
+  display: flex;
+  justify-content: center;
+  padding: 2rem;
+  background-color:#10121f;
+  color: #ffff;
+  min-height: 100vh;
+  margin: 0;
+}
