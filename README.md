@@ -3,9 +3,6 @@
 ## 💻 Sobre o projeto
 Modelo de sistema para gerar e controlar cadastro de produtos.
 
-Projeto desenvolvido durante aula de React.JS oferecida por João Bibiano.
-Uma experiência online com muito conteúdo prático, com o objetivo de aprender, praticar e aprimorar meus conhecimentos.
-
 ## ⚙️ Funcionalidades
 - [x] Sistema permite gerar e cadastrar produtos
 - [x] Campos para código, descrição e preço do produto
